@@ -17,4 +17,4 @@ jobs:
 
 notify:
   webhooks:
-    - url: https://dev.giles.cadair.com/circleci
+    - url: https://giles.dev.cadair.com/circleci
