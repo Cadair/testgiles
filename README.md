@@ -6,3 +6,4 @@ thing
 a check for milestones?
 cache 2
 pr
+permissions
