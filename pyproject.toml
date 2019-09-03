@@ -1,5 +1,6 @@
-[ tool.gilesbot.pull_requests ]
-  enabled = true
+[ tool.gilesbot ]
+  [ tool.gilesbot.pull_requests ]
+    enabled = true
 
-[ tool.gilesbot.milestones ]
-  enabled = true
+  [ tool.gilesbot.milestones ]
+    enabled = true
