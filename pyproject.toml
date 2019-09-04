@@ -4,3 +4,4 @@
 
   [ tool.gilesbot.milestones ]
     enabled = true
+    missing_message = "All pull requests require a milestone. Only maintainers of the repository can set a milestone."
