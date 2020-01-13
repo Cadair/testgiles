@@ -9,6 +9,7 @@
     
   [ tool.gilesbot.towncrier_changelog ]
     enabled = true
+    verify_pr_number = true
     
 [tool.towncrier]
   directory = "changes"
