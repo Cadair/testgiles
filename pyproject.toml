@@ -9,3 +9,6 @@
     
   [ tool.gilesbot.towncrier_changelog ]
     enabled = true
+    
+[tool.towncrier]
+  directory = "changes"
